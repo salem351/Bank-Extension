@@ -1,0 +1,6 @@
+﻿  BankExtension.cpp
+D:\My Projects\BankExtension\BankExtension\BankExtension.cpp(23,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\My Projects\BankExtension\BankExtension\BankExtension.cpp(469,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\My Projects\BankExtension\BankExtension\BankExtension.cpp(304): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\My Projects\BankExtension\BankExtension\BankExtension.cpp(334): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  BankExtension.vcxproj -> D:\My Projects\BankExtension\x64\Debug\BankExtension.exe
